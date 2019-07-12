@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome To ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="app_name_profile">My Profile</string>
+    <string name="app_name_about_alc">About ALC</string>
+    <string name="ik_umeh">Ik Umeh</string>
+    <string name="ik">ik</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="_07068174707">07068174707</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="ik_francis_yahoo_com">ik.francis@yahoo.com</string>
+    <string name="email">Email:</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="country">Country:</string>
+    <string name="android">Android</string>
+    <string name="track">Track:</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+</resources>
